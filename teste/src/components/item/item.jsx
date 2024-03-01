@@ -13,7 +13,7 @@ function Item ( { item } ) {
             <p>NOME: { item.nome }</p>
             <button type="button" onClick={clicar}>VER DETALHES</button>
         </li>
-    )
+    );
 }
 
 export default Item;

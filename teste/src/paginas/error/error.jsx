@@ -3,7 +3,7 @@ const Error = () => {
         <div>
             <h1>Erro</h1>
         </div>
-    )
-}
+    );
+};
 
 export default Error;
